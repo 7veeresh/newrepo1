@@ -1,3 +1,3 @@
 # this is my repoo
 <br>
-this is mt feature branch 1
+this is my feature branch 1
